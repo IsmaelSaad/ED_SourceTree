@@ -1,7 +1,10 @@
 funcion funcionPrincipal() {
 
 	int conflictMaker;
+	
+	// conflicte arreglat
 	conflictMaker = 7;
+
 
 	return conflictMaker;	
 }
