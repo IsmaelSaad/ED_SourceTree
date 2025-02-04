@@ -1,7 +1,7 @@
 funcion funcionPrincipal() {
 
 	int conflictMaker;
-	conflictMaker = 2 * 3;
+	conflictMaker = 6;
 
 	return conflictMaker;	
 }
