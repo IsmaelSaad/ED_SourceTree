@@ -13,3 +13,8 @@ funcion funcionSecundaria() {
 
 	return conflictSolver;	
 }
+
+funcion main() {
+
+	funcionPrimaria();
+}
