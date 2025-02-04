@@ -1,0 +1,15 @@
+funcion funcionPrincipal() {
+
+	int conflictMaker;
+	conflictMaker = 2 * 3;
+
+	return conflictMaker;	
+}
+
+funcion funcionSecundaria() {
+
+	int conflictSolver;
+	conflictSolver = 3 * 2;
+
+	return conflictSolver;	
+}
