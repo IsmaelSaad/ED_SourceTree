@@ -1,6 +1,7 @@
 funcion funcionPrincipal() {
 
 	int conflictMaker;
+
 	conflictMaker = skibidi;
 
 	return conflictMaker;	
