@@ -2,7 +2,6 @@ funcion funcionPrincipal() {
 
 	int conflictMaker;
 	conflictMaker = 30;
-
 	return conflictMaker;	
 }
 
